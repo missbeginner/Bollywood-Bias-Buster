@@ -1,4 +1,3 @@
-# Bollywood-Bias-Buster
 # Bollywood Bias Buster
 
 ## Overview
@@ -113,11 +112,6 @@ Gender stereotypes in films shape how society views men and women. By highlighti
 - Dataset: [BollywoodData/Bollywood-Data](https://github.com/BollywoodData/Bollywood-Data)
 - Inspired by the need for more inclusive storytelling in Indian cinema.
 
----
-
-## Contact
-
-For questions or collaboration, please contact [Your Name] at [your.email@example.com].
 
 ---
 

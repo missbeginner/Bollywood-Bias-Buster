@@ -53,6 +53,8 @@ Gender stereotypes in films shape how society views men and women. By highlighti
   - **Precision:** 0.67 (when the model flags a stereotype, it’s correct 67% of the time)
   - **Recall:** 0.80 (the model finds 80% of all actual stereotypes)
   - **F1 Score:** 0.73 (overall accuracy)
+  - ![image](https://github.com/user-attachments/assets/6839b1f5-3d1e-440a-9ab5-a3635da56bed)
+
 
 ---
 

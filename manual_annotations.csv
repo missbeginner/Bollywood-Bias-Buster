@@ -1,0 +1,79 @@
+character,dialogue,dialogue_id,stereotype_present,stereotype_type,gender
+RANI,"Mummy sabse khush, poori zindagi
+bita di mujhe kisi aur ke ghar ke
+liye tayaar karne mein. Best bahu
+banegi meri beti, apne pati ko
+khush rakhegi sabse zyada, baal tak
+nahi katwane diye.. bola hai Apni
+saas se pooch ke shaadi ke baad jo
+marzi karna",1,1,Relationship_stereotype,female
+DAD," Oye saari mat peena, raat ke liye
+bhi rakhna",2,0,0,male
+RANI,"Papa ne to Apni mithai ki dukaan
+aise sajai hai maano uski shaadi
+ho. Papa waisey to thodey strict
+type ke hain... jaisey sabke papa
+hotey hain... par laad bhi bahut
+kartey hain... merey ko leke to
+badey protective hain... aaj tak
+akele nahi jaane diya kahin. Ek
+baar college ke saath jaipur gayee
+toh do sau phone kiye. Actually
+mujhe bhi akele jaana pasand nahi",3,1,Relationship_stereotype,female
+RANI,"Yeh mera bodyguard. Market tak
+jaana ho toh papa humesha kehtey
+hain chintu ko saath le ke jaao.
+uskey mind mein bhi voh salman khan
+se kum nahin hai. Salman mera
+favouritest hai. bohot hi handsome
+hai (hums a salman song)",4,1,Relationship_stereotype,female
+MITHAI SHOP GUY 1,Didi aaj toh chamak rahey ho,5,0,0,male
+MITHAI SHOP GUY 2,"Ab mithai ki dukaan pe hulchal kaun
+machayega",6,0,0,male
+TRIPTA BUA,"Beer kholo toh ek chilled mere liye
+bhi",7,0,0,female
+RANI,"Do din shaadi se pehle koi aata hai
+kya? Ladoongi jab miloongi main...
+Achcha nahi ladoongi.. Itna khush
+rakhungi na bas... (smiles) subah
+tayaar kar ke office, shaam ko
+khana bana ke wait, sunday ko
+movie, discuss nahi kiya but i
+think Vijay ko beti chahiye.. Par
+london! Uff bohot darr lagg raha
+hai london jaane ko, par Ritu bhi
+gayee thee, settle ho gayee achche
+se. aur waisey bhi Vijay to aisa
+hai ke sadak bhi akele cross nahi
+karne deta... ",8,1,Relationship_stereotype,female
+FUFA,"Bhai beer sheer kholo aanth saal ke
+baad gahr mein shaadi hai ji...
+kyun!!",9,0,0,male
+FUFA,"Yaar tent lagaane ke liye teen log
+bheje hai, shyaam ko sangeet hai,
+main tumhari dukaan baand karve
+dunga bataa raha hoon",10,0,0,male
+CHACHI,"Yeh yellow toh maine kukki ke
+sangeet pe bhi pehni thi",11,0,0,female
+TRIPTA BUA,"Toh woh waali pehen lo, magenta
+wali",12,0,0,female
+RANI,Bahut yaad aayegi,13,0,0,female
+VIJAY,"Main tumharey angle se hi soch raha
+hoon... Tum hi uncomfortable feel
+karogi... bahut time ho gaya hai...
+bahut fark aa gaya hai",14,1,Relationship_stereotype,male
+RANI,"Kismein? Mujhmein koyi change nahin
+hai",15,0,0,female
+VIJAY,"Vohi to baat hai... mujhmein hai...
+meri duniya ... bilkul alag hai...
+ab... you’ll not fit in",16,0,0,male
+VIJAY,"Pata hai... tum.. Tum to best ho...
+isiliye to keh raha hoon... tumhe
+bohot achche ladke milenge, rajori
+mein hi dekh lo... kitne achche
+ladke hai tumhare type ke queen",17,0,0,male
+RANI,"Mat bolo mujhey queen... mat
+bolo....",18,0,0,female
+DAD,"Arey waah gudiya! Shrikhand mein
+boondi milayi hai... (she nods) kya
+baat hai... super hit hai beta",19,0,,male

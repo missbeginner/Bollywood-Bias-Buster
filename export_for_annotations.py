@@ -4,7 +4,7 @@ from data_ingestion import extract_text_from_pdf, extract_dialogue_blocks
 
 # Choose the script you want to annotate
 script_file = os.path.join(
-    "data", "Bollywood-Data-master", "scripts-data", "Queen.pdf"  # or any other script
+    "data", "Bollywood-Data-master", "scripts-data", "Queen.pdf"  
 )
 
 # Extract text and dialogue blocks
@@ -17,9 +17,9 @@ sample = blocks[:100]
 # Create DataFrame for annotation
 df = pd.DataFrame(sample, columns=["character", "dialogue"])
 df["dialogue_id"] = range(1, len(df)+1)
-df["stereotype_present"] = ""  # To be filled by annotator: 1 or 0
-df["stereotype_type"] = ""     # To be filled by annotator: relationship-based, profession-based, etc.
-df["gender"] = ""              # To be filled by annotator
+df["stereotype_present"] = "" 
+df["stereotype_type"] = ""     
+df["gender"] = ""              
 
 # Save to CSV
 output_path = os.path.join("outputs", "manual_annotations.csv")
